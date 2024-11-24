@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dewmini Mandis</h1>
 
-A passionate software engineering student currently pursuing a BSc (Hons) in Software Engineering at NSBM Green University.<br><br>
+A passionate software engineering student currently pursuing a BSc (Hons) in Software Engineering at NSBM Green University.
 
+<br>
+<img src="https://github.com/user-attachments/assets/9d5201d5-8f16-489d-ba9f-145e2d968541" alt="coding-girl" width="250" height="250" align="right"/>
 
 Here's a snapshot of who I am:
 - 🔭 I’m currently working on **my university projects.**
@@ -17,10 +19,10 @@ Here's a snapshot of who I am:
 <br>
 <h2 align="left">🌐 Socials:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/dewmini-mandis-96986129b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmini navodya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100094158080819&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dew" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dewmini-mandis-96986129b/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100094158080819&mibextid=ZbWKw"><img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-</p>
+
 
 <br>
 <h2 align="left">💻 Languages and Tools:</h2> 
@@ -28,14 +30,14 @@ Here's a snapshot of who I am:
 
 <br>
 <h2 align="left">🏆 GitHub Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dewmini-Mandis" alt="Dewmini-Mandis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dewmini-Mandis&theme=juicyfresh&no-bg=true" alt="Dewmini-Mandis" /></a> </p>
 
 <br>
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dewmini-Mandis&show_icons=true&locale=en" alt="Dewmini-Mandis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dewmini-Mandis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dewmini-Mandis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini-Mandis&" alt="Dewmini-Mandis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dewmini-Mandis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dewmini-Mandis" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewmini-Mandis&show_icons=true&locale=en&layout=compact" alt="Dewmini-Mandis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dewmini-Mandis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dewmini-Mandis" /></p>
 
