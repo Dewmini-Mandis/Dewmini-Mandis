@@ -3,7 +3,7 @@
 A passionate software engineering student currently pursuing a BSc (Hons) in Software Engineering at NSBM Green University.
 
 <br>
-<img src="https://github.com/user-attachments/assets/9d5201d5-8f16-489d-ba9f-145e2d968541" alt="coding-girl" width="250" height="250" align="right"/>
+<img src="https://github.com/user-attachments/assets/9d5201d5-8f16-489d-ba9f-145e2d968541" alt="coding-girl" width="230" height="230" align="right"/>
 
 Here's a snapshot of who I am:
 - 🔭 I’m currently working on **my university projects.**
